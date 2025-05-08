@@ -1,4 +1,4 @@
-![441670621-f4d0bef7-0f70-4f40-816e-004adf2b37a8](https://github.com/user-attachments/assets/aa849522-4d71-4967-ba5a-79c325771b93)# Series Queues with infinite capacity - Open Jackson Network
+# Series Queues with infinite capacity - Open Jackson Network
 ### NAME:MADHUPRIYA.R
 ### REG.NO:212224040177
 
